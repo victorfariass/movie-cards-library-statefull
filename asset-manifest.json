@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e1c1e25.chunk.css",
-    "main.js": "/static/js/main.5ffb6f79.chunk.js",
-    "main.js.map": "/static/js/main.5ffb6f79.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c7e298dc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c7e298dc.js.map",
-    "static/js/2.943014cf.chunk.js": "/static/js/2.943014cf.chunk.js",
-    "static/js/2.943014cf.chunk.js.map": "/static/js/2.943014cf.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.26d54052c93204fbc2f88097aced5523.js": "/precache-manifest.26d54052c93204fbc2f88097aced5523.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5e1c1e25.chunk.css.map": "/static/css/main.5e1c1e25.chunk.css.map",
-    "static/js/2.943014cf.chunk.js.LICENSE.txt": "/static/js/2.943014cf.chunk.js.LICENSE.txt"
+    "main.css": "/movie-cards-library-statefull/static/css/main.5e1c1e25.chunk.css",
+    "main.js": "/movie-cards-library-statefull/static/js/main.2f651b00.chunk.js",
+    "main.js.map": "/movie-cards-library-statefull/static/js/main.2f651b00.chunk.js.map",
+    "runtime-main.js": "/movie-cards-library-statefull/static/js/runtime-main.a3d66544.js",
+    "runtime-main.js.map": "/movie-cards-library-statefull/static/js/runtime-main.a3d66544.js.map",
+    "static/js/2.d5d0da8d.chunk.js": "/movie-cards-library-statefull/static/js/2.d5d0da8d.chunk.js",
+    "static/js/2.d5d0da8d.chunk.js.map": "/movie-cards-library-statefull/static/js/2.d5d0da8d.chunk.js.map",
+    "index.html": "/movie-cards-library-statefull/index.html",
+    "precache-manifest.26507e5c4e4a5bfedd33ffa09084c931.js": "/movie-cards-library-statefull/precache-manifest.26507e5c4e4a5bfedd33ffa09084c931.js",
+    "service-worker.js": "/movie-cards-library-statefull/service-worker.js",
+    "static/css/main.5e1c1e25.chunk.css.map": "/movie-cards-library-statefull/static/css/main.5e1c1e25.chunk.css.map",
+    "static/js/2.d5d0da8d.chunk.js.LICENSE.txt": "/movie-cards-library-statefull/static/js/2.d5d0da8d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7e298dc.js",
-    "static/js/2.943014cf.chunk.js",
+    "static/js/runtime-main.a3d66544.js",
+    "static/js/2.d5d0da8d.chunk.js",
     "static/css/main.5e1c1e25.chunk.css",
-    "static/js/main.5ffb6f79.chunk.js"
+    "static/js/main.2f651b00.chunk.js"
   ]
 }
